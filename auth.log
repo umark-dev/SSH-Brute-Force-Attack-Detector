@@ -1,0 +1,11 @@
+Mar 30 10:00:01 server sshd[1234]: Failed password for invalid user admin from 192.168.1.50 port 22 ssh2
+Mar 30 10:00:03 server sshd[1235]: Failed password for invalid user root from 192.168.1.50 port 22 ssh2
+Mar 30 10:00:05 server sshd[1236]: Failed password for invalid user test from 192.168.1.50 port 22 ssh2
+Mar 30 10:00:07 server sshd[1237]: Failed password for invalid user user from 192.168.1.50 port 22 ssh2
+
+Mar 30 10:01:00 server sshd[1240]: Accepted password for umar from 192.168.1.100 port 22 ssh2
+
+Mar 30 10:02:01 server sshd[1245]: Failed password for invalid user guest from 10.0.0.7 port 22 ssh2
+Mar 30 10:02:03 server sshd[1246]: Failed password for invalid user admin from 10.0.0.7 port 22 ssh2
+Mar 30 10:02:05 server sshd[1247]: Failed password for invalid user root from 10.0.0.7 port 22 ssh2
+Mar 30 10:02:07 server sshd[1248]: Failed password for invalid user test from 10.0.0.7 port 22 ssh2
